@@ -1,5 +1,5 @@
 # CSV files #
-Here's a rundown of files in this directory. For more information, see/download the pdf [User Guide](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/User%20Guide_March_2020.pdf).
+Here's an overview of files in this directory. For more information, see/download the pdf [User Guide](https://github.com/HCNData/landgrabu-data/blob/master/User%20Guide%20March%202020.pdf).
 
 ### 1. Parcels.csv ###
 This file contains data on 79,461 land parcels redistributed through the Morrill Act (or in lieu thereof) across 43 columns. Each row described the location of a unique parcel, along with information about the tract, its original Indigenous owners, its acquisition by the United States, and its benefit to one or more land-grant universities. It also contains source material on how the parcel was identified and retrieved, and material on how—and how accurately—it was mapped.
