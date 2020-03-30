@@ -18,14 +18,17 @@ The data in the CSV files can be analyzed alone or linked to shapefiles for mapp
 
 We encourage exploration and use of the database for research, teaching, publication, and other public uses. We also invite feedback if you see omissions, errors or miscalculations. Since no other database of its kind exists—location and financial analysis linked to approximately 80,000 individual land parcels distributed through a Civil War-era law—we are committed to making it publicly available and as robust as possible.
 
-The database administrator can be contacted at: landgrabu@hcn.org
+The database administrator can be contacted at: **landgrabu@hcn.org**
+
 
 ### III. Creative Commons License ###
-The database is licensed under the Open Database License, and the contents under the Creative Commons Attribution-ShareAlike license.
-https://opendatacommons.org/licenses/odbl/1.0/ https://creativecommons.org/licenses/by-sa/3.0/ IV. Citation
+The database is licensed under the *Open Database License* [https://opendatacommons.org/licenses/odbl/1.0/](https://opendatacommons.org/licenses/odbl/1.0/), and the contents under the Creative Commons Attribution-ShareAlike license [https://creativecommons.org/licenses/by-sa/3.0/](https://creativecommons.org/licenses/by-sa/3.0/).
+  
+  
+### IV. Citation
 If you re-publish this data or otherwise draw on it as a source for publication, in part or whole, cite as:
 
-Robert Lee, “Morrill Act of 1862 Indigenous Land Parcels Database,” High Country News, March 2020.
+Robert Lee, “Morrill Act of 1862 Indigenous Land Parcels Database,” *High Country News*, March 2020.
 
 
 ### V. Files Descriptions ###
