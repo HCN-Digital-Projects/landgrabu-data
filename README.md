@@ -30,7 +30,7 @@ Robert Lee, “Morrill Act of 1862 Indigenous Land Parcels Database,” High Cou
 
 ### V. Files Descriptions ###
 
-The database is comprised of 7 files: 3 shapefiles, 3 CSV files, and 1 excel spreadsheet with 4 internal tabs. Descriptions of the contents of the following files appear below.
+The database is comprised of 7 files: 3 [shapefiles](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Shapefiles), 3 [CSV files](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/CSVs), and 1 [excel spreadsheet](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Summaries_Uni_State_Treaty_Tribe.xlsx) with 4 internal tabs. Descriptions of the contents of the following files appear below.
 Shapefiles
 1. Parcels_Polygons.shp
 2. Cessions_Polygons.shp 3. Universities_Points.shp
