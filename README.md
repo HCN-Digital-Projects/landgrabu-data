@@ -31,7 +31,7 @@ If you re-publish this data or otherwise draw on it as a source for publication,
 Robert Lee, “Morrill Act of 1862 Indigenous Land Parcels Database,” *High Country News*, March 2020.
 
 
-### V. Files Descriptions ###
+### V. File Descriptions ###
 
 The database is comprised of 7 files: 3 [shapefiles](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Shapefiles), 3 [CSV files](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/CSVs), and 1 [excel spreadsheet](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Summaries_Uni_State_Treaty_Tribe.xlsx) with 4 internal tabs. 
 
