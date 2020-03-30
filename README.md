@@ -1,5 +1,7 @@
 # landgrabu-data
-Source data for the HCN investigation, "Land-Grab Universities"
+Source data for the HCN investigation, "Land-Grab Universities." 
+
+For detailed instructions, please see the **downloadable PDF [User Guide](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/User%20Guide_March_2020.pdf)**. 
 
 ### I. Overview ###
 
