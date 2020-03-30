@@ -1,5 +1,5 @@
 # Shapefiles #
-Here's a rundown of files in this directory. For more information, see/download the pdf [User Guide](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/LandGrabU_HCN_April_2020.pdf).
+Here's a rundown of files in this directory. For more information, see/download the pdf [User Guide](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/User%20Guide_March_2020.pdf).
 
 ### 1. Parcel_Polygons.shp ###
 This shapefile contains 79,360 unique polygons representing parcels distributed through the Morrill Act (or acts in lieu thereof). It can be joined to the [Parcels.csv](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/CSVs/Parcels.csv) using the field named **MTRSA_LG**.
