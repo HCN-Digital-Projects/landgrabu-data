@@ -30,14 +30,20 @@ Robert Lee, “Morrill Act of 1862 Indigenous Land Parcels Database,” High Cou
 
 ### V. Files Descriptions ###
 
-The database is comprised of 7 files: 3 [shapefiles](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Shapefiles), 3 [CSV files](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/CSVs), and 1 [excel spreadsheet](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Summaries_Uni_State_Treaty_Tribe.xlsx) with 4 internal tabs. Descriptions of the contents of the following files appear below.
-Shapefiles
+The database is comprised of 7 files: 3 [shapefiles](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Shapefiles), 3 [CSV files](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/CSVs), and 1 [excel spreadsheet](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Summaries_Uni_State_Treaty_Tribe.xlsx) with 4 internal tabs. 
+
+Descriptions of the contents of the following files appear below. Further readme's with specific instructions can be found in the sub-directories, or you can down the [User Guide](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/User%20Guide_March_2020.pdf) as a PDF.
+
+#### [Shapefiles](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Shapefiles)
 1. Parcels_Polygons.shp
-2. Cessions_Polygons.shp 3. Universities_Points.shp
-CSV files
+2. Cessions_Polygons.shp 
+3. Universities_Points.shp
+
+#### [CSV files](https://github.com/HCNData/landgrabu-data/tree/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/CSVs)
 4. Parcels.csv
 5. Cessions.csv
 6. Universities.csv
-Excel file
-7. Summaries_Uni_State_Treaty_Tribe.xlsx
+
+#### Excel file
+[7. Summaries_Uni_State_Treaty_Tribe.xlsx](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Summaries_Uni_State_Treaty_Tribe.xlsx)
 
