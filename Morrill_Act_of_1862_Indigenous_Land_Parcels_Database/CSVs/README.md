@@ -3,7 +3,7 @@ Here's a rundown of files in this directory. For more information, see/download 
 
 ### 1. Parcels.csv ###
 This file contains data on 79,461 land parcels redistributed through the Morrill Act (or in lieu thereof) across 43 columns. Each row described the location of a unique parcel, along with information about the tract, its original Indigenous owners, its acquisition by the United States, and its benefit to one or more land-grant universities. It also contains source material on how the parcel was identified and retrieved, and material on how—and how accurately—it was mapped.
-The data can be mapped by joining the file to **Parcel_Polygons.shp** using the field named **MTRSA_LG**.
+The data can be mapped by joining the file to **"Parcel_Polygons.shp"** using the field named **MTRSA_LG**.
 
 
 ### 2. Cessions.csv ### 
