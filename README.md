@@ -51,7 +51,7 @@ Further readme's with specific instructions can be found in the sub-directories,
 5. Cessions.csv
 6. Universities.csv
 
-#### Excel file
+#### Excel files
  [7. Summaries_Uni_State_Treaty_Tribe.xlsx](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Summaries_Uni_State_Treaty_Tribe.xlsx)
 
  [8. Unis_Remaining_Acreage_Summaries_8_17_20.xls](https://github.com/HCN-Digital-Projects/landgrabu-data/raw/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Unis_Remaining_Acreage_Summaries_8_17_20.xls)
