@@ -54,6 +54,6 @@ Further readme's with specific instructions can be found in the sub-directories,
 #### Excel files
  [7. Summaries_Uni_State_Treaty_Tribe.xlsx](https://github.com/HCNData/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Summaries_Uni_State_Treaty_Tribe.xlsx)
 
- [8. Unis_Remaining_Acreage_Summaries_8_17_20.xls](https://github.com/HCN-Digital-Projects/landgrabu-data/raw/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Unis_Remaining_Acreage_Summaries_8_17_20.xls)
+ [8. Unis_Remaining_Acreage_Summaries_8_17_20.xls](https://github.com/HCN-Digital-Projects/landgrabu-data/raw/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/Unis_Remaining_Acreage_Summaries_8_17_20.xls) (or the CSV format)
 This file contains data on acreage redistributed by the Morrill Act still retained by their respective land-grant universities across 14 columns. More information is available in the [pdf documentation](https://github.com/HCN-Digital-Projects/landgrabu-data/blob/master/Morrill_Act_of_1862_Indigenous_Land_Parcels_Database/LandGrabU_remainingacresdatabase.pdf), also contained in this repository.
 
